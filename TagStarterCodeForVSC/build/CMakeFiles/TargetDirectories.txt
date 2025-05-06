@@ -1,0 +1,3 @@
+C:/Users/allison/Documents/133/spring22/hw3/TagStarterCodeForVSC/build/CMakeFiles/StarterProject.dir
+C:/Users/allison/Documents/133/spring22/hw3/TagStarterCodeForVSC/build/CMakeFiles/edit_cache.dir
+C:/Users/allison/Documents/133/spring22/hw3/TagStarterCodeForVSC/build/CMakeFiles/rebuild_cache.dir
