@@ -12,6 +12,9 @@ class TagManager{
         void push_back(string value);
         void printTagRing();
         void printOutList();
+        void printReverse(TagNode* front);
+        string properCapital(string name);
+        int indexOfName(string name);
         bool tagRingContains(string name);
         bool outListContains(string name);
         bool isGameOver();
