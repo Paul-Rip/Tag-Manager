@@ -1,0 +1,128 @@
+Current tag ring:
+  Erica Kane is stalking Ruth Martin
+  Ruth Martin is stalking Jackson Montgomery
+  Jackson Montgomery is stalking Bobby Warner
+  Bobby Warner is stalking Joe Martin
+  Joe Martin is stalking Anita Santos
+  Anita Santos is stalking Tad Martin
+  Tad Martin is stalking Phoebe Wallingford
+  Phoebe Wallingford is stalking Erica Kane
+Current out list:
+
+next victim? Ruth Martin
+
+Current tag ring:
+  Erica Kane is stalking Jackson Montgomery
+  Jackson Montgomery is stalking Bobby Warner
+  Bobby Warner is stalking Joe Martin
+  Joe Martin is stalking Anita Santos
+  Anita Santos is stalking Tad Martin
+  Tad Martin is stalking Phoebe Wallingford
+  Phoebe Wallingford is stalking Erica Kane
+Current out list:
+  Ruth Martin was tagged by Erica Kane
+
+next victim? Ruth Martin
+Ruth Martin is already dead.
+
+Current tag ring:
+  Erica Kane is stalking Jackson Montgomery
+  Jackson Montgomery is stalking Bobby Warner
+  Bobby Warner is stalking Joe Martin
+  Joe Martin is stalking Anita Santos
+  Anita Santos is stalking Tad Martin
+  Tad Martin is stalking Phoebe Wallingford
+  Phoebe Wallingford is stalking Erica Kane
+Current out list:
+  Ruth Martin was tagged by Erica Kane
+
+next victim? bobby warner
+
+Current tag ring:
+  Erica Kane is stalking Jackson Montgomery
+  Jackson Montgomery is stalking Joe Martin
+  Joe Martin is stalking Anita Santos
+  Anita Santos is stalking Tad Martin
+  Tad Martin is stalking Phoebe Wallingford
+  Phoebe Wallingford is stalking Erica Kane
+Current out list:
+  Bobby Warner was tagged by Jackson Montgomery
+  Ruth Martin was tagged by Erica Kane
+
+next victim? ERICa kaNE
+
+Current tag ring:
+  Jackson Montgomery is stalking Joe Martin
+  Joe Martin is stalking Anita Santos
+  Anita Santos is stalking Tad Martin
+  Tad Martin is stalking Phoebe Wallingford
+  Phoebe Wallingford is stalking Jackson Montgomery
+Current out list:
+  Erica Kane was tagged by Phoebe Wallingford
+  Bobby Warner was tagged by Jackson Montgomery
+  Ruth Martin was tagged by Erica Kane
+
+next victim? ANITA SANTOS
+
+Current tag ring:
+  Jackson Montgomery is stalking Joe Martin
+  Joe Martin is stalking Tad Martin
+  Tad Martin is stalking Phoebe Wallingford
+  Phoebe Wallingford is stalking Jackson Montgomery
+Current out list:
+  Anita Santos was tagged by Joe Martin
+  Erica Kane was tagged by Phoebe Wallingford
+  Bobby Warner was tagged by Jackson Montgomery
+  Ruth Martin was tagged by Erica Kane
+
+next victim? phoebe wallingford
+
+Current tag ring:
+  Jackson Montgomery is stalking Joe Martin
+  Joe Martin is stalking Tad Martin
+  Tad Martin is stalking Jackson Montgomery
+Current out list:
+  Phoebe Wallingford was tagged by Tad Martin
+  Anita Santos was tagged by Joe Martin
+  Erica Kane was tagged by Phoebe Wallingford
+  Bobby Warner was tagged by Jackson Montgomery
+  Ruth Martin was tagged by Erica Kane
+
+next victim? Barack Obama
+Unknown person.
+
+Current tag ring:
+  Jackson Montgomery is stalking Joe Martin
+  Joe Martin is stalking Tad Martin
+  Tad Martin is stalking Jackson Montgomery
+Current out list:
+  Phoebe Wallingford was tagged by Tad Martin
+  Anita Santos was tagged by Joe Martin
+  Erica Kane was tagged by Phoebe Wallingford
+  Bobby Warner was tagged by Jackson Montgomery
+  Ruth Martin was tagged by Erica Kane
+
+next victim? Joe Martin
+
+Current tag ring:
+  Jackson Montgomery is stalking Tad Martin
+  Tad Martin is stalking Jackson Montgomery
+Current out list:
+  Joe Martin was tagged by Jackson Montgomery
+  Phoebe Wallingford was tagged by Tad Martin
+  Anita Santos was tagged by Joe Martin
+  Erica Kane was tagged by Phoebe Wallingford
+  Bobby Warner was tagged by Jackson Montgomery
+  Ruth Martin was tagged by Erica Kane
+
+next victim? jackson montgomery
+
+Game was won by Tad Martin
+Final out list is as follows:
+  Jackson Montgomery was tagged by Tad Martin
+  Joe Martin was tagged by Jackson Montgomery
+  Phoebe Wallingford was tagged by Tad Martin
+  Anita Santos was tagged by Joe Martin
+  Erica Kane was tagged by Phoebe Wallingford
+  Bobby Warner was tagged by Jackson Montgomery
+  Ruth Martin was tagged by Erica Kane

@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/allison/Documents/133/spring22/hw3/TagStarterCodeForVSC/build",
+  "command": "C:\\PROGRA~1\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe  @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -std=gnu++17 -o CMakeFiles\\StarterProject.dir\\src\\TagMain.cpp.obj -c C:\\Users\\allison\\Documents\\133\\spring22\\hw3\\TagStarterCodeForVSC\\src\\TagMain.cpp",
+  "file": "C:/Users/allison/Documents/133/spring22/hw3/TagStarterCodeForVSC/src/TagMain.cpp"
+},
+{
+  "directory": "C:/Users/allison/Documents/133/spring22/hw3/TagStarterCodeForVSC/build",
+  "command": "C:\\PROGRA~1\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe  @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -std=gnu++17 -o CMakeFiles\\StarterProject.dir\\src\\TagManager.cpp.obj -c C:\\Users\\allison\\Documents\\133\\spring22\\hw3\\TagStarterCodeForVSC\\src\\TagManager.cpp",
+  "file": "C:/Users/allison/Documents/133/spring22/hw3/TagStarterCodeForVSC/src/TagManager.cpp"
+},
+{
+  "directory": "C:/Users/allison/Documents/133/spring22/hw3/TagStarterCodeForVSC/build",
+  "command": "C:\\PROGRA~1\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe  @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -std=gnu++17 -o CMakeFiles\\StarterProject.dir\\src\\TagNode.cpp.obj -c C:\\Users\\allison\\Documents\\133\\spring22\\hw3\\TagStarterCodeForVSC\\src\\TagNode.cpp",
+  "file": "C:/Users/allison/Documents/133/spring22/hw3/TagStarterCodeForVSC/src/TagNode.cpp"
+}
+]
